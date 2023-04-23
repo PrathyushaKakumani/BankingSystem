@@ -34,18 +34,6 @@ To delete an account, choose option 5 from the main menu and enter the account n
 Exit
 To exit the program, choose option 6 from the main menu.
 
-Future Improvements
-This banking management system is a simple implementation and can be improved in many ways, such as:
-
-Adding more robust input validation
-Implementing a user login system
-Using a database to store account information
-Adding more features such as account transfers and transaction history
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
 
 
 
